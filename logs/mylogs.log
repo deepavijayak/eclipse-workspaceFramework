@@ -1,0 +1,344 @@
+20240624 23:21:00 INFO  [main] base.BaseSFfunctionality BaseSFfunctionality.java36 - ****************setUpBeforeMethod*******************
+20240624 23:22:16 INFO  [main] base.BaseSFfunctionality BaseSFfunctionality.java36 - ****************setUpBeforeMethod*******************
+20240624 23:22:52 INFO  [main] base.BaseSFfunctionality BaseSFfunctionality.java36 - ****************setUpBeforeMethod*******************
+20240624 23:23:29 INFO  [main] base.BaseSFfunctionality BaseSFfunctionality.java36 - ****************setUpBeforeMethod*******************
+20240624 23:30:01 INFO  [main] base.BaseSFfunctionality BaseSFfunctionality.java36 - ****************setUpBeforeMethod*******************
+20240624 23:31:22 INFO  [main] base.BaseSFfunctionality BaseSFfunctionality.java36 - ****************setUpBeforeMethod*******************
+20240624 23:37:22 INFO  [main] base.BaseSFfunctionality BaseSFfunctionality.java36 - ****************setUpBeforeMethod*******************
+20240624 23:38:03 INFO  [main] base.BaseSFfunctionality BaseSFfunctionality.java36 - ****************setUpBeforeMethod*******************
+20240624 23:47:19 INFO  [main] test.TestLog TestLog.java13 - chrome browser has started
+20240624 23:47:19 INFO  [main] test.TestLog TestLog.java14 - application has opned in the broswer
+20240624 23:47:19 ERROR [main] test.TestLog TestLog.java20 - cannot divide by 0
+java.lang.ArithmeticException: / by zero
+	at com.Salesforce.test.TestLog.main(TestLog.java:17) [test-classes/:?]
+20240624 23:47:19 FATAL [main] test.TestLog TestLog.java23 - fatal information
+20240624 23:47:19 INFO  [main] test.TestLog TestLog.java24 - abrowser closed
+20240624 23:47:29 INFO  [main] base.BaseSFfunctionality BaseSFfunctionality.java36 - ****************setUpBeforeMethod*******************
+20240624 23:55:08 INFO  [main] test.TestLog TestLog.java13 - chrome browser has started
+20240624 23:55:08 INFO  [main] test.TestLog TestLog.java14 - application has opned in the broswer
+20240624 23:55:08 ERROR [main] test.TestLog TestLog.java20 - cannot divide by 0
+java.lang.ArithmeticException: / by zero
+	at com.Salesforce.test.TestLog.main(TestLog.java:17) [test-classes/:?]
+20240624 23:55:08 FATAL [main] test.TestLog TestLog.java23 - fatal information
+20240624 23:55:08 INFO  [main] test.TestLog TestLog.java24 - abrowser closed
+20240624 23:55:17 INFO  [main] base.BaseSFfunctionality BaseSFfunctionality.java36 - ****************setUpBeforeMethod*******************
+20240625 00:00:12 INFO  [main] base.BaseSFfunctionality BaseSFfunctionality.java36 - ****************setUpBeforeMethod*******************
+20240625 00:00:24 INFO  [main] base.BaseSFfunctionality BaseSFfunctionality.java106 - Home Page ~ Salesforce - Developer Edition
+20240625 00:00:24 INFO  [main] base.BaseSFfunctionality BaseSFfunctionality.java45 - ****************tearDownAfterTestMethod*******************
+20240626 01:38:14 INFO  [main] base.BaseSFTest BaseSFTest.java36 - ****************setUpBeforeMethod*******************
+20240626 01:38:20 INFO  [main] base.BasePage BasePage.java39 - username data is entered in username field textbox
+20240626 01:38:21 INFO  [main] base.BasePage BasePage.java39 - username data is entered in password field textbox
+20240626 01:38:22 INFO  [main] base.BasePage BasePage.java50 - login buttonbutton is clicked
+20240626 01:38:23 INFO  [main] base.BaseSFTest BaseSFTest.java45 - ****************tearDownAfterTestMethod*******************
+20240626 01:46:33 INFO  [main] base.BaseSFTest BaseSFTest.java36 - ****************setUpBeforeMethod*******************
+20240626 01:46:38 INFO  [main] base.BasePage BasePage.java39 - username data is entered in username field textbox
+20240626 01:46:38 INFO  [main] base.BasePage BasePage.java39 - username data is entered in password field textbox
+20240626 01:46:39 INFO  [main] base.BasePage BasePage.java50 - login buttonbutton is clicked
+20240626 01:46:42 INFO  [main] base.BasePage BasePage.java50 - Usernamebutton is clicked
+20240626 01:46:42 INFO  [main] base.BaseSFTest BaseSFTest.java45 - ****************tearDownAfterTestMethod*******************
+20240626 01:46:42 INFO  [main] base.BaseSFTest BaseSFTest.java36 - ****************setUpBeforeMethod*******************
+20240626 02:00:26 INFO  [main] base.BaseSFTest BaseSFTest.java36 - ****************setUpBeforeMethod*******************
+20240626 02:00:29 INFO  [main] base.BasePage BasePage.java39 - username data is entered in username field textbox
+20240626 02:00:30 INFO  [main] base.BasePage BasePage.java39 - username data is entered in password field textbox
+20240626 02:00:31 INFO  [main] base.BasePage BasePage.java50 - login buttonbutton is clicked
+20240626 02:00:32 INFO  [main] base.BaseSFTest BaseSFTest.java45 - ****************tearDownAfterTestMethod*******************
+20240626 02:12:56 INFO  [main] base.BaseSFTest BaseSFTest.java36 - ****************setUpBeforeMethod*******************
+20240626 02:13:01 INFO  [main] base.BasePage BasePage.java39 - username data is entered in username field textbox
+20240626 02:13:01 INFO  [main] base.BasePage BasePage.java39 - username data is entered in password field textbox
+20240626 02:13:02 INFO  [main] base.BasePage BasePage.java50 - login buttonbutton is clicked
+20240626 02:13:02 INFO  [main] base.BaseSFTest BaseSFTest.java45 - ****************tearDownAfterTestMethod*******************
+20240626 02:21:57 INFO  [main] base.BaseSFTest BaseSFTest.java36 - ****************setUpBeforeMethod*******************
+20240626 02:22:01 INFO  [main] base.BasePage BasePage.java39 - username data is entered in username field textbox
+20240626 02:22:02 INFO  [main] base.BasePage BasePage.java39 - username data is entered in password field textbox
+20240626 02:22:02 INFO  [main] base.BasePage BasePage.java50 - login buttonbutton is clicked
+20240626 02:22:02 INFO  [main] base.BaseSFTest BaseSFTest.java45 - ****************tearDownAfterTestMethod*******************
+20240626 02:23:18 INFO  [main] base.BaseSFTest BaseSFTest.java36 - ****************setUpBeforeMethod*******************
+20240626 02:23:24 INFO  [main] base.BasePage BasePage.java39 - username data is entered in username field textbox
+20240626 02:23:24 INFO  [main] base.BasePage BasePage.java39 - username data is entered in password field textbox
+20240626 02:23:26 INFO  [main] base.BasePage BasePage.java50 - login buttonbutton is clicked
+20240626 02:23:26 INFO  [main] base.BaseSFTest BaseSFTest.java45 - ****************tearDownAfterTestMethod*******************
+20240626 02:23:26 INFO  [main] base.BaseSFTest BaseSFTest.java36 - ****************setUpBeforeMethod*******************
+20240626 02:23:29 INFO  [main] base.BasePage BasePage.java39 - username data is entered in username field textbox
+20240626 02:23:30 INFO  [main] base.BasePage BasePage.java39 - username data is entered in password field textbox
+20240626 02:23:30 INFO  [main] base.BasePage BasePage.java50 - login buttonbutton is clicked
+20240626 02:23:31 INFO  [main] base.BaseSFTest BaseSFTest.java45 - ****************tearDownAfterTestMethod*******************
+20240626 02:35:14 INFO  [main] base.BaseSFTest BaseSFTest.java36 - ****************setUpBeforeMethod*******************
+20240626 02:35:18 INFO  [main] base.BasePage BasePage.java39 - username data is entered in username field textbox
+20240626 02:35:19 INFO  [main] base.BasePage BasePage.java39 - username data is entered in password field textbox
+20240626 02:35:19 INFO  [main] base.BasePage BasePage.java50 - login buttonbutton is clicked
+20240626 02:35:20 INFO  [main] base.BaseSFTest BaseSFTest.java45 - ****************tearDownAfterTestMethod*******************
+20240626 02:36:21 INFO  [main] base.BaseSFTest BaseSFTest.java36 - ****************setUpBeforeMethod*******************
+20240626 02:36:26 INFO  [main] base.BasePage BasePage.java39 - username data is entered in username field textbox
+20240626 02:36:26 INFO  [main] base.BasePage BasePage.java39 - username data is entered in password field textbox
+20240626 02:36:27 INFO  [main] base.BasePage BasePage.java50 - login buttonbutton is clicked
+20240626 02:36:27 INFO  [main] base.BaseSFTest BaseSFTest.java45 - ****************tearDownAfterTestMethod*******************
+20240626 02:37:25 INFO  [main] base.BaseSFTest BaseSFTest.java36 - ****************setUpBeforeMethod*******************
+20240626 02:37:30 INFO  [main] base.BasePage BasePage.java39 - username data is entered in username field textbox
+20240626 02:37:31 INFO  [main] base.BasePage BasePage.java39 - username data is entered in password field textbox
+20240626 02:37:34 INFO  [main] base.BasePage BasePage.java50 - login buttonbutton is clicked
+20240626 02:37:34 INFO  [main] base.BasePage BasePage.java50 - Usernamebutton is clicked
+20240626 02:37:34 INFO  [main] base.BaseSFTest BaseSFTest.java45 - ****************tearDownAfterTestMethod*******************
+20240626 10:32:52 INFO  [main] base.BaseSFTest BaseSFTest.java36 - ****************setUpBeforeMethod*******************
+20240626 10:33:00 INFO  [main] base.BasePage BasePage.java39 - username data is entered in username field textbox
+20240626 10:33:00 INFO  [main] base.BasePage BasePage.java39 - username data is entered in password field textbox
+20240626 10:33:03 INFO  [main] base.BasePage BasePage.java50 - login buttonbutton is clicked
+20240626 10:33:05 INFO  [main] base.BasePage BasePage.java50 - Usernamebutton is clicked
+20240626 10:33:06 INFO  [main] base.BaseSFTest BaseSFTest.java45 - ****************tearDownAfterTestMethod*******************
+20240626 10:36:13 INFO  [main] base.BaseSFTest BaseSFTest.java36 - ****************setUpBeforeMethod*******************
+20240626 10:36:19 INFO  [main] base.BasePage BasePage.java39 - username data is entered in username field textbox
+20240626 10:36:20 INFO  [main] base.BasePage BasePage.java39 - username data is entered in password field textbox
+20240626 10:36:27 INFO  [main] base.BasePage BasePage.java50 - login buttonbutton is clicked
+20240626 10:36:29 INFO  [main] base.BasePage BasePage.java50 - Usernamebutton is clicked
+20240626 10:36:31 INFO  [main] base.BaseSFTest BaseSFTest.java45 - ****************tearDownAfterTestMethod*******************
+20240626 11:13:10 INFO  [main] base.BaseSFTest BaseSFTest.java36 - ****************setUpBeforeMethod*******************
+20240626 11:13:20 INFO  [main] base.BasePage BasePage.java39 - username data is entered in username field textbox
+20240626 11:13:21 INFO  [main] base.BasePage BasePage.java39 - username data is entered in password field textbox
+20240626 11:13:24 INFO  [main] base.BasePage BasePage.java50 - login buttonbutton is clicked
+20240626 11:13:26 INFO  [main] test.SfdcAutomation SfdcAutomation.java37 - Title verified
+20240626 11:13:27 INFO  [main] base.BaseSFTest BaseSFTest.java45 - ****************tearDownAfterTestMethod*******************
+20240626 11:13:27 INFO  [main] base.BaseSFTest BaseSFTest.java36 - ****************setUpBeforeMethod*******************
+20240626 11:13:31 INFO  [main] base.BasePage BasePage.java39 - username data is entered in username field textbox
+20240626 11:13:31 INFO  [main] base.BasePage BasePage.java39 - username data is entered in password field textbox
+20240626 11:13:32 INFO  [main] base.BasePage BasePage.java50 - login buttonbutton is clicked
+20240626 11:13:32 INFO  [main] base.BaseSFTest BaseSFTest.java45 - ****************tearDownAfterTestMethod*******************
+20240626 11:18:44 INFO  [main] base.BaseSFTest BaseSFTest.java36 - ****************setUpBeforeMethod*******************
+20240626 11:18:51 INFO  [main] base.BasePage BasePage.java39 - username data is entered in username field textbox
+20240626 11:18:52 INFO  [main] base.BasePage BasePage.java39 - username data is entered in password field textbox
+20240626 11:18:56 INFO  [main] base.BasePage BasePage.java50 - login buttonbutton is clicked
+20240626 11:18:58 INFO  [main] base.BaseSFTest BaseSFTest.java45 - ****************tearDownAfterTestMethod*******************
+20240626 11:24:10 INFO  [main] base.BaseSFTest BaseSFTest.java36 - ****************setUpBeforeMethod*******************
+20240626 11:24:16 INFO  [main] base.BasePage BasePage.java39 - username data is entered in username field textbox
+20240626 11:24:17 INFO  [main] base.BasePage BasePage.java39 - username data is entered in password field textbox
+20240626 11:24:18 INFO  [main] base.BasePage BasePage.java50 - login buttonbutton is clicked
+20240626 11:24:21 INFO  [main] base.BaseSFTest BaseSFTest.java45 - ****************tearDownAfterTestMethod*******************
+20240626 12:12:16 INFO  [main] base.BaseSFTest BaseSFTest.java36 - ****************setUpBeforeMethod*******************
+20240626 12:12:24 INFO  [main] base.BasePage BasePage.java39 - data is entered in username field textbox
+20240626 12:12:24 INFO  [main] base.BasePage BasePage.java39 - data is entered in password field textbox
+20240626 12:12:25 INFO  [main] base.BasePage BasePage.java50 - login buttonbutton is clicked
+20240626 12:12:25 INFO  [main] base.BaseSFTest BaseSFTest.java45 - ****************tearDownAfterTestMethod*******************
+20240626 12:33:51 INFO  [main] base.BaseSFTest BaseSFTest.java36 - ****************setUpBeforeMethod*******************
+20240626 12:34:54 INFO  [main] base.BasePage BasePage.java39 - data is entered in username field textbox
+20240626 12:34:56 INFO  [main] base.BasePage BasePage.java39 - data is entered in password field textbox
+20240626 12:34:58 INFO  [main] base.BasePage BasePage.java50 - login buttonbutton is clicked
+20240626 12:35:23 INFO  [main] base.BaseSFTest BaseSFTest.java45 - ****************tearDownAfterTestMethod*******************
+20240626 12:41:21 INFO  [main] base.BaseSFTest BaseSFTest.java36 - ****************setUpBeforeMethod*******************
+20240626 12:43:32 INFO  [main] base.BaseSFTest BaseSFTest.java36 - ****************setUpBeforeMethod*******************
+20240626 12:44:17 INFO  [main] base.BasePage BasePage.java39 - data is entered in username field textbox
+20240626 12:44:19 INFO  [main] base.BasePage BasePage.java39 - data is entered in password field textbox
+20240626 12:44:21 INFO  [main] base.BasePage BasePage.java50 - login buttonbutton is clicked
+20240626 12:44:28 INFO  [main] base.BaseSFTest BaseSFTest.java45 - ****************tearDownAfterTestMethod*******************
+20240626 13:20:47 INFO  [main] base.BaseSFTest BaseSFTest.java36 - ****************setUpBeforeMethod*******************
+20240626 13:24:00 INFO  [main] base.BasePage BasePage.java39 - data is entered in username field textbox
+20240626 13:24:16 INFO  [main] base.BasePage BasePage.java39 - data is entered in password field textbox
+20240626 13:24:29 INFO  [main] base.BasePage BasePage.java50 - login buttonbutton is clicked
+20240626 13:24:39 INFO  [main] base.BaseSFTest BaseSFTest.java45 - ****************tearDownAfterTestMethod*******************
+20240626 20:09:53 INFO  [main] base.BaseSFTest BaseSFTest.java36 - ****************setUpBeforeMethod*******************
+20240626 20:09:59 INFO  [main] base.BasePage BasePage.java39 - data is entered in username field textbox
+20240626 20:09:59 INFO  [main] base.BasePage BasePage.java39 - data is entered in password field textbox
+20240626 20:10:00 INFO  [main] base.BasePage BasePage.java50 - login buttonbutton is clicked
+20240626 20:10:01 INFO  [main] base.BaseSFTest BaseSFTest.java45 - ****************tearDownAfterTestMethod*******************
+20240626 22:08:18 INFO  [main] base.BaseSFTest BaseSFTest.java36 - ****************setUpBeforeMethod*******************
+20240626 22:08:22 INFO  [main] base.BasePage BasePage.java39 - data is entered in username field textbox
+20240626 22:08:23 INFO  [main] base.BasePage BasePage.java39 - data is entered in password field textbox
+20240626 22:08:24 INFO  [main] base.BasePage BasePage.java50 - login buttonbutton is clicked
+20240626 22:08:25 INFO  [main] base.BaseSFTest BaseSFTest.java45 - ****************tearDownAfterTestMethod*******************
+20240626 22:11:20 INFO  [main] base.BaseSFTest BaseSFTest.java36 - ****************setUpBeforeMethod*******************
+20240626 22:11:24 INFO  [main] base.BasePage BasePage.java39 - data is entered in username field textbox
+20240626 22:11:24 INFO  [main] base.BasePage BasePage.java39 - data is entered in password field textbox
+20240626 22:11:26 INFO  [main] base.BasePage BasePage.java50 - login buttonbutton is clicked
+20240626 22:11:28 INFO  [main] base.BaseSFTest BaseSFTest.java45 - ****************tearDownAfterTestMethod*******************
+20240626 22:11:28 INFO  [main] base.BaseSFTest BaseSFTest.java36 - ****************setUpBeforeMethod*******************
+20240626 22:11:31 INFO  [main] base.BasePage BasePage.java39 - data is entered in username field textbox
+20240626 22:11:31 INFO  [main] base.BasePage BasePage.java39 - data is entered in password field textbox
+20240626 22:11:31 INFO  [main] base.BasePage BasePage.java50 - login buttonbutton is clicked
+20240626 22:11:32 INFO  [main] base.BaseSFTest BaseSFTest.java45 - ****************tearDownAfterTestMethod*******************
+20240626 22:11:32 INFO  [main] base.BaseSFTest BaseSFTest.java36 - ****************setUpBeforeMethod*******************
+20240626 22:11:34 INFO  [main] base.BasePage BasePage.java39 - data is entered in username field textbox
+20240626 22:11:35 INFO  [main] base.BasePage BasePage.java39 - data is entered in password field textbox
+20240626 22:11:36 INFO  [main] base.BasePage BasePage.java50 - login buttonbutton is clicked
+20240626 22:11:38 INFO  [main] base.BasePage BasePage.java50 - Usermenubutton is clicked
+20240626 22:11:38 INFO  [main] base.BasePage BasePage.java50 - Usermenulogoutoptionbutton is clicked
+20240626 22:11:39 INFO  [main] base.BaseSFTest BaseSFTest.java45 - ****************tearDownAfterTestMethod*******************
+20240626 22:18:34 INFO  [main] base.BaseSFTest BaseSFTest.java36 - ****************setUpBeforeMethod*******************
+20240626 22:18:38 INFO  [main] base.BasePage BasePage.java39 - data is entered in username field textbox
+20240626 22:18:38 INFO  [main] base.BasePage BasePage.java39 - data is entered in password field textbox
+20240626 22:18:40 INFO  [main] base.BasePage BasePage.java50 - login buttonbutton is clicked
+20240626 22:18:42 INFO  [main] base.BasePage BasePage.java50 - Usermenubutton is clicked
+20240626 22:18:42 INFO  [main] base.BasePage BasePage.java50 - Usermenulogoutoptionbutton is clicked
+20240626 22:18:43 INFO  [main] base.BaseSFTest BaseSFTest.java45 - ****************tearDownAfterTestMethod*******************
+20240626 22:26:42 INFO  [main] base.BaseSFTest BaseSFTest.java36 - ****************setUpBeforeMethod*******************
+20240626 22:26:46 INFO  [main] base.BasePage BasePage.java39 - data is entered in username field textbox
+20240626 22:26:47 INFO  [main] base.BasePage BasePage.java39 - data is entered in password field textbox
+20240626 22:26:48 INFO  [main] base.BasePage BasePage.java50 - login buttonbutton is clicked
+20240626 22:26:50 INFO  [main] base.BasePage BasePage.java50 - Usermenubutton is clicked
+20240626 22:26:50 INFO  [main] base.BasePage BasePage.java50 - Usermenulogoutoptionbutton is clicked
+20240626 22:26:53 INFO  [main] base.BaseSFTest BaseSFTest.java45 - ****************tearDownAfterTestMethod*******************
+20240627 19:15:21 INFO  [main] base.BaseSFTest BaseSFTest.java36 - ****************setUpBeforeMethod*******************
+20240627 19:15:27 INFO  [main] base.BasePage BasePage.java50 - Forgot Passwordbutton is clicked
+20240627 19:15:27 INFO  [main] base.BasePage BasePage.java39 - data is entered in username field textbox
+20240627 19:15:27 INFO  [main] base.BasePage BasePage.java50 - continue buttonbutton is clicked
+20240627 19:15:28 INFO  [main] base.BaseSFTest BaseSFTest.java45 - ****************tearDownAfterTestMethod*******************
+20240627 19:19:33 INFO  [main] base.BaseSFTest BaseSFTest.java36 - ****************setUpBeforeMethod*******************
+20240627 19:19:37 INFO  [main] base.BasePage BasePage.java50 - Forgot Passwordbutton is clicked
+20240627 19:19:37 INFO  [main] base.BasePage BasePage.java39 - data is entered in username field textbox
+20240627 19:19:37 INFO  [main] base.BasePage BasePage.java50 - continue buttonbutton is clicked
+20240627 19:19:37 INFO  [main] base.BaseSFTest BaseSFTest.java45 - ****************tearDownAfterTestMethod*******************
+20240627 19:21:10 INFO  [main] base.BaseSFTest BaseSFTest.java36 - ****************setUpBeforeMethod*******************
+20240627 19:23:37 INFO  [main] base.BaseSFTest BaseSFTest.java36 - ****************setUpBeforeMethod*******************
+20240627 19:23:40 INFO  [main] base.BasePage BasePage.java39 - data is entered in username field textbox
+20240627 19:23:41 INFO  [main] base.BasePage BasePage.java39 - data is entered in password field textbox
+20240627 19:23:41 INFO  [main] base.BasePage BasePage.java50 - login buttonbutton is clicked
+20240627 19:23:41 INFO  [main] base.BaseSFTest BaseSFTest.java45 - ****************tearDownAfterTestMethod*******************
+20240627 19:26:43 INFO  [main] base.BaseSFTest BaseSFTest.java36 - ****************setUpBeforeMethod*******************
+20240627 19:26:47 INFO  [main] base.BasePage BasePage.java50 - Forgot Passwordbutton is clicked
+20240627 19:26:47 INFO  [main] base.BasePage BasePage.java39 - data is entered in username field textbox
+20240627 19:26:47 INFO  [main] base.BasePage BasePage.java50 - continue buttonbutton is clicked
+20240627 19:26:47 INFO  [main] base.BaseSFTest BaseSFTest.java45 - ****************tearDownAfterTestMethod*******************
+20240627 19:27:33 INFO  [main] base.BaseSFTest BaseSFTest.java36 - ****************setUpBeforeMethod*******************
+20240627 19:27:37 INFO  [main] base.BasePage BasePage.java50 - Forgot Passwordbutton is clicked
+20240627 19:27:37 INFO  [main] base.BasePage BasePage.java39 - data is entered in username field textbox
+20240627 19:27:38 INFO  [main] base.BasePage BasePage.java50 - continue buttonbutton is clicked
+20240627 19:27:40 INFO  [main] base.BaseSFTest BaseSFTest.java45 - ****************tearDownAfterTestMethod*******************
+20240627 19:34:22 INFO  [main] base.BaseSFTest BaseSFTest.java36 - ****************setUpBeforeMethod*******************
+20240627 19:34:26 INFO  [main] base.BasePage BasePage.java50 - Forgot Passwordbutton is clicked
+20240627 19:34:26 INFO  [main] base.BasePage BasePage.java39 - data is entered in username field textbox
+20240627 19:34:26 INFO  [main] base.BasePage BasePage.java50 - continue buttonbutton is clicked
+20240627 19:34:28 INFO  [main] base.BaseSFTest BaseSFTest.java45 - ****************tearDownAfterTestMethod*******************
+20240627 19:41:27 INFO  [main] base.BaseSFTest BaseSFTest.java36 - ****************setUpBeforeMethod*******************
+20240627 19:41:31 INFO  [main] base.BasePage BasePage.java50 - Forgot Passwordbutton is clicked
+20240627 19:41:31 INFO  [main] base.BasePage BasePage.java39 - data is entered in username field textbox
+20240627 19:41:31 INFO  [main] base.BasePage BasePage.java50 - continue buttonbutton is clicked
+20240627 19:41:34 INFO  [main] base.BaseSFTest BaseSFTest.java45 - ****************tearDownAfterTestMethod*******************
+20240627 19:43:20 INFO  [main] base.BaseSFTest BaseSFTest.java36 - ****************setUpBeforeMethod*******************
+20240627 19:43:24 INFO  [main] base.BasePage BasePage.java50 - Forgot Passwordbutton is clicked
+20240627 19:43:25 INFO  [main] base.BasePage BasePage.java39 - data is entered in username field textbox
+20240627 19:43:25 INFO  [main] base.BasePage BasePage.java50 - continue buttonbutton is clicked
+20240627 19:43:27 INFO  [main] base.BaseSFTest BaseSFTest.java45 - ****************tearDownAfterTestMethod*******************
+20240627 19:46:10 INFO  [main] base.BaseSFTest BaseSFTest.java36 - ****************setUpBeforeMethod*******************
+20240627 19:46:16 INFO  [main] base.BasePage BasePage.java50 - Forgot Passwordbutton is clicked
+20240627 19:46:16 INFO  [main] base.BasePage BasePage.java39 - data is entered in username field textbox
+20240627 19:46:16 INFO  [main] base.BasePage BasePage.java50 - continue buttonbutton is clicked
+20240627 19:46:19 INFO  [main] base.BaseSFTest BaseSFTest.java45 - ****************tearDownAfterTestMethod*******************
+20240627 20:10:33 INFO  [main] base.BaseSFTest BaseSFTest.java36 - ****************setUpBeforeMethod*******************
+20240627 20:10:37 INFO  [main] base.BasePage BasePage.java50 - Forgot Passwordbutton is clicked
+20240627 20:10:37 INFO  [main] base.BasePage BasePage.java39 - data is entered in username field textbox
+20240627 20:10:37 INFO  [main] base.BasePage BasePage.java50 - continuebutton is clicked
+20240627 20:10:39 INFO  [main] base.BasePage BasePage.java83 - Check your emailwaiting for visibility for maximum of 30sec
+20240627 20:10:39 INFO  [main] base.BasePage BasePage.java70 - text is extracted from check your Email
+20240627 20:10:40 INFO  [main] base.BaseSFTest BaseSFTest.java45 - ****************tearDownAfterTestMethod*******************
+20240627 20:17:08 INFO  [main] base.BaseSFTest BaseSFTest.java36 - ****************setUpBeforeMethod*******************
+20240627 20:17:16 INFO  [main] base.BasePage BasePage.java50 - Forgot Passwordbutton is clicked
+20240627 20:17:16 INFO  [main] base.BasePage BasePage.java39 - data is entered in username field textbox
+20240627 20:17:16 INFO  [main] base.BasePage BasePage.java50 - continuebutton is clicked
+20240627 20:17:24 INFO  [main] base.BasePage BasePage.java83 - Check your emailwaiting for visibility for maximum of 30sec
+20240627 20:17:24 INFO  [main] base.BasePage BasePage.java70 - text is extracted from check Email page
+20240627 20:17:25 INFO  [main] base.BaseSFTest BaseSFTest.java45 - ****************tearDownAfterTestMethod*******************
+20240627 20:18:56 INFO  [main] base.BaseSFTest BaseSFTest.java36 - ****************setUpBeforeMethod*******************
+20240627 20:19:03 INFO  [main] base.BasePage BasePage.java50 - Forgot Passwordbutton is clicked
+20240627 20:19:03 INFO  [main] base.BasePage BasePage.java39 - data is entered in username field textbox
+20240627 20:19:12 INFO  [main] base.BasePage BasePage.java83 - Check your emailwaiting for visibility for maximum of 30sec
+20240627 20:19:12 INFO  [main] base.BasePage BasePage.java70 - text is extracted from check Email page
+20240627 20:19:13 INFO  [main] base.BasePage BasePage.java50 - return to login buttonbutton is clicked
+20240627 20:19:14 INFO  [main] base.BaseSFTest BaseSFTest.java45 - ****************tearDownAfterTestMethod*******************
+20240627 21:28:44 INFO  [main] base.BaseSFTest BaseSFTest.java36 - ****************setUpBeforeMethod*******************
+20240627 21:28:48 INFO  [main] base.BasePage BasePage.java50 - Forgot Passwordbutton is clicked
+20240627 21:28:49 INFO  [main] base.BasePage BasePage.java39 - data is entered in username field textbox
+20240627 21:28:49 INFO  [main] base.BasePage BasePage.java50 - continuebutton is clicked
+20240627 21:28:57 INFO  [main] base.BasePage BasePage.java83 - Check your emailwaiting for visibility for maximum of 30sec
+20240627 21:28:57 INFO  [main] base.BasePage BasePage.java70 - text is extracted from check Email page
+20240627 21:28:57 INFO  [main] base.BaseSFTest BaseSFTest.java45 - ****************tearDownAfterTestMethod*******************
+20240627 21:29:49 INFO  [main] base.BaseSFTest BaseSFTest.java36 - ****************setUpBeforeMethod*******************
+20240627 21:29:53 INFO  [main] base.BasePage BasePage.java50 - Forgot Passwordbutton is clicked
+20240627 21:29:53 INFO  [main] base.BasePage BasePage.java39 - data is entered in username field textbox
+20240627 21:29:53 INFO  [main] base.BasePage BasePage.java50 - continuebutton is clicked
+20240627 21:30:01 INFO  [main] base.BasePage BasePage.java83 - Check your emailwaiting for visibility for maximum of 30sec
+20240627 21:30:01 INFO  [main] base.BasePage BasePage.java70 - text is extracted from check Email page
+20240627 21:30:02 INFO  [main] base.BasePage BasePage.java50 - return to login buttonbutton is clicked
+20240627 21:30:02 INFO  [main] base.BaseSFTest BaseSFTest.java45 - ****************tearDownAfterTestMethod*******************
+20240627 21:40:04 INFO  [main] base.BaseSFTest BaseSFTest.java36 - ****************setUpBeforeMethod*******************
+20240627 21:40:06 INFO  [main] base.BasePage BasePage.java39 - data is entered in username field textbox
+20240627 21:40:07 INFO  [main] base.BasePage BasePage.java39 - data is entered in password field textbox
+20240627 21:40:07 INFO  [main] base.BasePage BasePage.java50 - login buttonbutton is clicked
+20240627 21:40:08 INFO  [main] base.BaseSFTest BaseSFTest.java45 - ****************tearDownAfterTestMethod*******************
+20240628 00:25:26 INFO  [main] utilities.TestListenerUtility TestListenerUtility.java57 - TestTest has started------------------
+20240628 00:25:26 INFO  [main] base.BaseSFTest BaseSFTest.java36 - ****************setUpBeforeMethod*******************
+20240628 00:25:31 INFO  [main] utilities.TestListenerUtility TestListenerUtility.java28 - Sdfcloginpositive started------
+20240628 00:25:32 INFO  [main] base.BasePage BasePage.java40 - data is entered in username field textbox
+20240628 00:25:32 INFO  [main] base.BasePage BasePage.java40 - data is entered in password field textbox
+20240628 00:25:35 INFO  [main] base.BasePage BasePage.java51 - login buttonbutton is clicked
+20240628 00:25:37 INFO  [main] utilities.TestListenerUtility TestListenerUtility.java34 - Sdfcloginpositive ended with success------------
+20240628 00:25:38 INFO  [main] base.BaseSFTest BaseSFTest.java45 - ****************tearDownAfterTestMethod*******************
+20240628 00:25:38 INFO  [main] base.BaseSFTest BaseSFTest.java36 - ****************setUpBeforeMethod*******************
+20240628 00:25:41 INFO  [main] utilities.TestListenerUtility TestListenerUtility.java28 - SfdcInvalidUsernamePwd started------
+20240628 00:25:42 INFO  [main] base.BasePage BasePage.java40 - data is entered in username field textbox
+20240628 00:25:43 INFO  [main] base.BasePage BasePage.java40 - data is entered in password field textbox
+20240628 00:25:43 INFO  [main] base.BasePage BasePage.java51 - login buttonbutton is clicked
+20240628 00:25:43 INFO  [main] utilities.TestListenerUtility TestListenerUtility.java34 - SfdcInvalidUsernamePwd ended with success------------
+20240628 00:25:43 INFO  [main] base.BaseSFTest BaseSFTest.java45 - ****************tearDownAfterTestMethod*******************
+20240628 00:25:43 INFO  [main] base.BaseSFTest BaseSFTest.java36 - ****************setUpBeforeMethod*******************
+20240628 00:25:46 INFO  [main] utilities.TestListenerUtility TestListenerUtility.java28 - Sfdcforgotpwd started------
+20240628 00:25:46 INFO  [main] base.BasePage BasePage.java51 - Forgot Passwordbutton is clicked
+20240628 00:25:46 INFO  [main] base.BasePage BasePage.java40 - data is entered in username field textbox
+20240628 00:25:47 INFO  [main] base.BasePage BasePage.java51 - continuebutton is clicked
+20240628 00:25:55 INFO  [main] base.BasePage BasePage.java84 - Check your emailwaiting for visibility for maximum of 30sec
+20240628 00:25:55 INFO  [main] base.BasePage BasePage.java71 - text is extracted from check Email page
+20240628 00:25:56 INFO  [main] base.BasePage BasePage.java51 - return to login buttonbutton is clicked
+20240628 00:25:56 INFO  [main] utilities.TestListenerUtility TestListenerUtility.java34 - Sfdcforgotpwd ended with success------------
+20240628 00:25:57 INFO  [main] base.BaseSFTest BaseSFTest.java45 - ****************tearDownAfterTestMethod*******************
+20240628 00:25:57 INFO  [main] base.BaseSFTest BaseSFTest.java36 - ****************setUpBeforeMethod*******************
+20240628 00:26:04 INFO  [main] utilities.TestListenerUtility TestListenerUtility.java28 - Sfdcinvalidlogin started------
+20240628 00:26:06 INFO  [main] base.BasePage BasePage.java40 - data is entered in username field textbox
+20240628 00:26:06 INFO  [main] base.BasePage BasePage.java40 - data is entered in password field textbox
+20240628 00:26:06 INFO  [main] base.BasePage BasePage.java51 - login buttonbutton is clicked
+20240628 00:26:06 INFO  [main] utilities.TestListenerUtility TestListenerUtility.java34 - Sfdcinvalidlogin ended with success------------
+20240628 00:26:10 INFO  [main] base.BaseSFTest BaseSFTest.java45 - ****************tearDownAfterTestMethod*******************
+20240628 00:26:10 INFO  [main] base.BaseSFTest BaseSFTest.java36 - ****************setUpBeforeMethod*******************
+20240628 00:26:14 INFO  [main] utilities.TestListenerUtility TestListenerUtility.java28 - Sfdcrememberme started------
+20240628 00:26:14 INFO  [main] base.BasePage BasePage.java40 - data is entered in username field textbox
+20240628 00:26:15 INFO  [main] base.BasePage BasePage.java40 - data is entered in password field textbox
+20240628 00:26:17 INFO  [main] base.BasePage BasePage.java51 - login buttonbutton is clicked
+20240628 00:26:21 INFO  [main] base.BasePage BasePage.java51 - Usermenubutton is clicked
+20240628 00:26:21 INFO  [main] base.BasePage BasePage.java51 - Usermenulogoutoptionbutton is clicked
+20240628 00:26:23 INFO  [main] utilities.TestListenerUtility TestListenerUtility.java34 - Sfdcrememberme ended with success------------
+20240628 00:26:26 INFO  [main] base.BaseSFTest BaseSFTest.java45 - ****************tearDownAfterTestMethod*******************
+20240628 00:28:46 INFO  [main] utilities.TestListenerUtility TestListenerUtility.java57 - TestTest has started------------------
+20240628 00:28:46 INFO  [main] base.BaseSFTest BaseSFTest.java42 - ****************setUpBeforeMethod*******************
+20240628 00:28:50 INFO  [main] utilities.TestListenerUtility TestListenerUtility.java28 - Sdfcloginpositive started------
+20240628 00:28:51 INFO  [main] base.BasePage BasePage.java40 - data is entered in username field textbox
+20240628 00:28:52 INFO  [main] base.BasePage BasePage.java40 - data is entered in password field textbox
+20240628 00:28:53 INFO  [main] base.BasePage BasePage.java51 - login buttonbutton is clicked
+20240628 00:28:55 INFO  [main] utilities.TestListenerUtility TestListenerUtility.java34 - Sdfcloginpositive ended with success------------
+20240628 00:28:55 INFO  [main] base.BaseSFTest BaseSFTest.java51 - ****************tearDownAfterTestMethod*******************
+20240628 00:28:55 INFO  [main] base.BaseSFTest BaseSFTest.java42 - ****************setUpBeforeMethod*******************
+20240628 00:28:57 INFO  [main] utilities.TestListenerUtility TestListenerUtility.java28 - SfdcInvalidUsernamePwd started------
+20240628 00:28:57 INFO  [main] base.BasePage BasePage.java40 - data is entered in username field textbox
+20240628 00:28:58 INFO  [main] base.BasePage BasePage.java40 - data is entered in password field textbox
+20240628 00:28:58 INFO  [main] base.BasePage BasePage.java51 - login buttonbutton is clicked
+20240628 00:28:58 INFO  [main] utilities.TestListenerUtility TestListenerUtility.java34 - SfdcInvalidUsernamePwd ended with success------------
+20240628 00:28:59 INFO  [main] base.BaseSFTest BaseSFTest.java51 - ****************tearDownAfterTestMethod*******************
+20240628 00:28:59 INFO  [main] base.BaseSFTest BaseSFTest.java42 - ****************setUpBeforeMethod*******************
+20240628 00:29:03 INFO  [main] utilities.TestListenerUtility TestListenerUtility.java28 - Sfdcforgotpwd started------
+20240628 00:29:03 INFO  [main] base.BasePage BasePage.java51 - Forgot Passwordbutton is clicked
+20240628 00:29:04 INFO  [main] base.BasePage BasePage.java40 - data is entered in username field textbox
+20240628 00:29:04 INFO  [main] base.BasePage BasePage.java51 - continuebutton is clicked
+20240628 00:29:12 INFO  [main] base.BasePage BasePage.java84 - Check your emailwaiting for visibility for maximum of 30sec
+20240628 00:29:12 INFO  [main] base.BasePage BasePage.java71 - text is extracted from check Email page
+20240628 00:29:13 INFO  [main] base.BasePage BasePage.java51 - return to login buttonbutton is clicked
+20240628 00:29:13 INFO  [main] utilities.TestListenerUtility TestListenerUtility.java34 - Sfdcforgotpwd ended with success------------
+20240628 00:29:14 INFO  [main] base.BaseSFTest BaseSFTest.java51 - ****************tearDownAfterTestMethod*******************
+20240628 00:29:14 INFO  [main] base.BaseSFTest BaseSFTest.java42 - ****************setUpBeforeMethod*******************
+20240628 00:29:16 INFO  [main] utilities.TestListenerUtility TestListenerUtility.java28 - Sfdcinvalidlogin started------
+20240628 00:29:17 INFO  [main] base.BasePage BasePage.java40 - data is entered in username field textbox
+20240628 00:29:17 INFO  [main] base.BasePage BasePage.java40 - data is entered in password field textbox
+20240628 00:29:18 INFO  [main] base.BasePage BasePage.java51 - login buttonbutton is clicked
+20240628 00:29:18 INFO  [main] utilities.TestListenerUtility TestListenerUtility.java34 - Sfdcinvalidlogin ended with success------------
+20240628 00:29:18 INFO  [main] base.BaseSFTest BaseSFTest.java51 - ****************tearDownAfterTestMethod*******************
+20240628 00:29:18 INFO  [main] base.BaseSFTest BaseSFTest.java42 - ****************setUpBeforeMethod*******************
+20240628 00:29:20 INFO  [main] utilities.TestListenerUtility TestListenerUtility.java28 - Sfdcrememberme started------
+20240628 00:29:21 INFO  [main] base.BasePage BasePage.java40 - data is entered in username field textbox
+20240628 00:29:21 INFO  [main] base.BasePage BasePage.java40 - data is entered in password field textbox
+20240628 00:29:23 INFO  [main] base.BasePage BasePage.java51 - login buttonbutton is clicked
+20240628 00:29:25 INFO  [main] base.BasePage BasePage.java51 - Usermenubutton is clicked
+20240628 00:29:27 INFO  [main] base.BasePage BasePage.java51 - Usermenulogoutoptionbutton is clicked
+20240628 00:29:29 INFO  [main] utilities.TestListenerUtility TestListenerUtility.java34 - Sfdcrememberme ended with success------------
+20240628 00:29:29 INFO  [main] base.BaseSFTest BaseSFTest.java51 - ****************tearDownAfterTestMethod*******************
